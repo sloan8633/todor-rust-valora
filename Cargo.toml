@@ -1,0 +1,11 @@
+[package]
+name = "hello-valora"
+version = "0.1.0"
+authors = ["sloan8633 <sloan.c@hotmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+valora = "0.2.12"
+itertools = "0.9"
